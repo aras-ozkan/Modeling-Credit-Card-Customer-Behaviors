@@ -99,3 +99,4 @@ Score:  0.8078680203045685
 AUROC:  0.599625398089172
 
 
+For the data contact: arasozkan576@gmail.com
